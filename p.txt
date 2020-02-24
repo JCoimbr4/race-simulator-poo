@@ -1,0 +1,3 @@
+rapido p1
+crazy p2
+surpresa p3

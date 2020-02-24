@@ -1,0 +1,4 @@
+1 10 20 um modelo1
+2 40 50 dois modelo2
+3 60 70 faltaparamentro
+4 80 90 tres modelo3
